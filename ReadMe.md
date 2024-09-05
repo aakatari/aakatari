@@ -62,15 +62,11 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 
 ## 🚀 **What I Do and What Drives Me**  
 
-- Focused on **NLP** to enhance cross-cultural communication by building models that bridge language gaps. 
-- Specialized in search engine optimization using **BERT** to improve information retrieval and ranking systems. 
-- Expertise in **Retrieval-augmented generation (RAG**), combining retrieval and generation models for real-time, accurate responses. 
-- Applied predictive analytics and forecasting to analyze trends and provide actionable insights across industries like hospitality and IoT. 
-- Developed AI-driven IoT solutions to optimize operations and health monitoring.   
+- I’m passionate about using Natural Language Processing (NLP) to break down language barriers and foster global communication. My expertise lies in leveraging cutting-edge models like BERT to enhance search engine optimization, improving both information retrieval and ranking systems.
 
-My goal is to build data-driven systems that enhance decision-making and drive efficiency.
+- I specialize in **Retrieval-Augmented Generation (RAG)**—a powerful blend of retrieval and generation models—designed to deliver real-time, accurate responses that revolutionize user experiences. Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
 
----
+- By developing AI-powered IoT solutions, I’ve helped organizations optimize operations, improve health monitoring, and boost overall efficiency. My ultimate goal is to build intelligent, data-driven systems that empower decision-making and streamline processes for a more effective and connected future.
 
 ## 🌐 **Connect with Me**  
 [LinkedIn](https://www.linkedin.com/in/anvesha-k-08891860/) | [Email](mailto:aakatari@andrew.cmu.edu)
