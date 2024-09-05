@@ -72,7 +72,7 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 ---
 ## 🌐 **Connect with Me**
 
-Feel free to reach out to me via the following platforms:
+Feel free to reach out for collaborations, opportunities, or just a chat about the latest in AI and tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesha-k-08891860/)  
 **LinkedIn:** Anvesha Katariyar
