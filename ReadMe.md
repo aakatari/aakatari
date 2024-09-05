@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Anvesha Katariyar
 
-*"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* – *Mark Zuckerberg*
----
 🔍 **Currently Pursuing:**  
 MS in Management Information Systems from **Carnegie Mellon University**  
 **Graduation:** December 2024
@@ -9,6 +7,8 @@ MS in Management Information Systems from **Carnegie Mellon University**
 🌱 **Looking For:**  
 Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, Deep Learning, and A/B Testing**
 
+---
+*"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* – *Mark Zuckerberg*
 ---
 
 ## 💻 **Skills**  
