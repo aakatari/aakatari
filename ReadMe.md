@@ -11,6 +11,15 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 *"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* – *Mark Zuckerberg*
 ---
 
+## 🚀 **What I Do and What Drives Me**  
+
+- I’m passionate about using Natural Language Processing (NLP) to break down language barriers and foster global communication. My expertise lies in leveraging cutting-edge models like BERT to enhance search engine optimization, improving both information retrieval and ranking systems.
+
+- I specialize in **Retrieval-Augmented Generation (RAG)**—a powerful blend of retrieval and generation models—designed to deliver real-time, accurate responses that revolutionize user experiences. Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
+
+- By developing AI-powered IoT solutions, I’ve helped organizations optimize operations, improve health monitoring, and boost overall efficiency. My ultimate goal is to build intelligent, data-driven systems that empower decision-making and streamline processes for a more effective and connected future.
+
+---
 ## 💻 **Skills**  
 
 ### 🖥️ Programming Languages  
@@ -61,14 +70,6 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
   ![OpenFace](https://img.shields.io/badge/OpenFace-FF4500?style=flat)
 
 ---
-
-## 🚀 **What I Do and What Drives Me**  
-
-- I’m passionate about using Natural Language Processing (NLP) to break down language barriers and foster global communication. My expertise lies in leveraging cutting-edge models like BERT to enhance search engine optimization, improving both information retrieval and ranking systems.
-
-- I specialize in **Retrieval-Augmented Generation (RAG)**—a powerful blend of retrieval and generation models—designed to deliver real-time, accurate responses that revolutionize user experiences. Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
-
-- By developing AI-powered IoT solutions, I’ve helped organizations optimize operations, improve health monitoring, and boost overall efficiency. My ultimate goal is to build intelligent, data-driven systems that empower decision-making and streamline processes for a more effective and connected future.
 
 ## 🌐 **Connect with Me**  
 [LinkedIn](https://www.linkedin.com/in/anvesha-k-08891860/) | [Email](mailto:aakatari@andrew.cmu.edu)
