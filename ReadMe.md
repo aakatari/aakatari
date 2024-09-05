@@ -72,13 +72,6 @@ My goal is to build data-driven systems that enhance decision-making and drive e
 
 ---
 
-## 📚 **Ongoing Projects**  
-
-I am currently working on various projects, including exploring NLP and large language models (LLMs) with Prof. Anand Rao, developing AI agents with Prof. Graham Neubig, and forecasting energy systems with Prof. Woody Zhu.  
-These projects involve cutting-edge research in AI and machine learning, and I am deeply involved in the implementation and testing of advanced models.
-
----
-
 ## 🌐 **Connect with Me**  
 [LinkedIn](https://www.linkedin.com/in/anvesha-k-08891860/) | [Email](mailto:aakatari@andrew.cmu.edu)
 
