@@ -70,11 +70,15 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
   ![OpenFace](https://img.shields.io/badge/OpenFace-FF4500?style=flat)
 
 ---
+## 🌐 **Connect with Me**
 
-## 🌐 **Connect with Me**  
+Feel free to reach out to me via the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesha-k-08891860/) Anvesha Katariyar     
-[![Email: aakatari@andrew.cmu.edu](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakatari@andrew.cmu.edu) aakatari@andrew.cmu.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesha-k-08891860/)  
+**LinkedIn:** Anvesha Katariyar
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakatari@andrew.cmu.edu)  
+**Email:** aakatari@andrew.cmu.edu
 
 ---
 
