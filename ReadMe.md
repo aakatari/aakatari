@@ -72,6 +72,6 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 ---
 
 ## 🌐 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/anvesha-k-08891860/) | [Email](mailto:aakatari@andrew.cmu.edu)
+[LinkedIn: Anvesha Katariyar](https://www.linkedin.com/in/anvesha-k-08891860/) | [Email: aakatari@andrew.cmu.edu](mailto:aakatari@andrew.cmu.edu)
 
 ---
