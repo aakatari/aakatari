@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Anvesha Katariyar
 
+*"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* – *Mark Zuckerberg*
+---
 🔍 **Currently Pursuing:**  
 MS in Management Information Systems from **Carnegie Mellon University**  
 **Graduation:** December 2024
@@ -60,9 +62,6 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 
 ---
 
-"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks." – *Mark Zuckerberg*
-
----
 ## 🚀 **What I Do and What Drives Me**  
 
 - I’m passionate about using Natural Language Processing (NLP) to break down language barriers and foster global communication. My expertise lies in leveraging cutting-edge models like BERT to enhance search engine optimization, improving both information retrieval and ranking systems.
