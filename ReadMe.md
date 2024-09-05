@@ -4,6 +4,10 @@
 *MS in Management Information Systems* from **Carnegie Mellon University**  
 **Graduation:** December 2024
 
+💼 **Work Experience:**  
+*Senior R&D Engineer* at **Western Digital**  
+**Tenure:** 3 years
+
 🌱 **Looking For:**  
 Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, Deep Learning, and A/B Testing**
 
