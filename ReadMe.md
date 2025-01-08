@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anvesha Katariyar
 
 🔍 **Currently Pursuing:**  
-*MS in Information Systems* from **Carnegie Mellon University**  
+*MS in Information Systems with AI Concentration* from **Carnegie Mellon University**  
 **Graduation:** December 2024
 
 💼 **Work Experience:**  
