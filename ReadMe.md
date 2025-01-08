@@ -17,11 +17,9 @@ Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, De
 
 ## 🚀 **What I Do and What Drives Me**  
 
-- I’m passionate about using Natural Language Processing (NLP) to break down language barriers and foster global communication. My expertise lies in leveraging cutting-edge models like BERT to enhance search engine optimization, improving both information retrieval and ranking systems.
-
-- I specialize in **Retrieval-Augmented Generation (RAG)**—a powerful blend of retrieval and generation models—designed to deliver real-time, accurate responses that revolutionize user experiences. Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
-
-- By developing AI-powered IoT solutions, I’ve helped organizations optimize operations, improve health monitoring, and boost overall efficiency. My ultimate goal is to build intelligent, data-driven systems that empower decision-making and streamline processes for a more effective and connected future.
+- I'm a passionate AI and Machine Learning expert with a Master's in Information Systems Management from Carnegie Mellon University. My expertise spans Gen AI, ML/NLP, Computer Vision, predictive analytics, and IoT solutions.
+- I've worked on multilingual NLP, Visual Question Answering, search engine optimization, Machine Learning and IoT solutions. My experience includes R&D roles at Western Digital and research positions at Carnegie Mellon University.
+- Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
 
 ---
 ## 💻 **Skills**  
