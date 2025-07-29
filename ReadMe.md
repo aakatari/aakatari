@@ -80,7 +80,7 @@ Feel free to reach out for collaborations, opportunities, or just a chat about t
 **LinkedIn:** Anvesha Katariyar
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakatari@andrew.cmu.edu)  
-**Email:** aakatari@andrew.cmu.edu
+**Email:** aakatari@alumni.cmu.edu
 
 ---
 
