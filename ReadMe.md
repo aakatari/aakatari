@@ -3,6 +3,7 @@
 💼 **Work Experience:**  
 *Data & Applied Scientist II* at **Microsoft**  
 **Tenure:** 1 year
+
 *Senior R&D Engineer* at **Western Digital - SanDisk**  
 **Tenure:** 3 years
 
@@ -77,5 +78,6 @@ Feel free to reach out for collaborations, opportunities, or just a chat about t
 **Email:** aakatari@alumni.cmu.edu
 
 ---
+
 
 
