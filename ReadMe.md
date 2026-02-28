@@ -1,25 +1,19 @@
 # 👋 Hi, I'm Anvesha Katariyar
 
-🔍 **Currently Pursuing:**  
-*MS in Information Systems with AI Concentration* from **Carnegie Mellon University**  
-**Graduation:** December 2024
-
 💼 **Work Experience:**  
-*Senior R&D Engineer* at **Western Digital**  
+*Data & Applied Scientist II* at **Microsoft**  
+**Tenure:** 1 year
+*Senior R&D Engineer* at **Western Digital - SanDisk**  
 **Tenure:** 3 years
 
-🌱 **Looking For:**  
-Full-time roles in **Data Science, Machine Learning, NLP, Big Data Analytics, Deep Learning, and A/B Testing**
-
----
-*"In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* – *Mark Zuckerberg*
----
+🔍 **Education:**  
+*MS in Information Systems | Concentration: Artificial Intelligence* from **Carnegie Mellon University**  
+*B.Tech in Electronics and Telecommunications* from **Cummins College of Engineering**
 
 ## 🚀 **What I Do and What Drives Me**  
-
 - I'm a passionate AI and Machine Learning expert with a Master's in Information Systems Management from Carnegie Mellon University. My expertise spans Gen AI, ML/NLP, Computer Vision, predictive analytics, and IoT solutions.
 - I've worked on multilingual NLP, Visual Question Answering, search engine optimization, Machine Learning and IoT solutions. My experience includes R&D roles at Western Digital and research positions at Carnegie Mellon University.
-- Additionally, I apply **predictive analytic**s and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
+- Additionally, I apply **predictive analytics** and forecasting to uncover trends and generate actionable insights across diverse sectors, from hospitality to IoT.
 
 ---
 ## 💻 **Skills**  
@@ -83,4 +77,5 @@ Feel free to reach out for collaborations, opportunities, or just a chat about t
 **Email:** aakatari@alumni.cmu.edu
 
 ---
+
 
